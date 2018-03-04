@@ -121,15 +121,15 @@ fi
 #### SSH ALIASES
 
 #alias cchub="ccssh 40.85.157.217"
-#alias torqomp="ssh -p 55100 sharp67@13.91.57.16"
-#alias torqmas="ssh sharp67@13.64.254.176"
+#alias torqomp="ssh -p 55100 USERNAME@13.91.57.16"
+#alias torqmas="ssh USERNAME@13.64.254.176"
 
-alias rice="ssh USERNAME@HOST.rcac.purdue.edu"
-alias brown="ssh USERNAME@HOST.rcac.purdue.edu"
+alias rice="ssh USERNAME@HOST.SUB.purdue.edu"
+alias brown="ssh USERNAME@HOST.SUB.purdue.edu"
 
 # Rest in peace competition cluster
 
-#alias raider="ssh -p 23 USERNAME@HOST.rcac.purdue.edu
+#alias raider="ssh -p 23 USERNAME@HOST.SUB.purdue.edu
 
 # You will be missed
 
